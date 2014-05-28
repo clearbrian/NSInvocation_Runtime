@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5E9B68F6-53AD-4134-89C4-B0D0C5919242</string>
+	<key>IDESourceControlProjectName</key>
+	<string>NSInvoc</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0C524C9C-8910-4131-B303-D65314953ED3</key>
+		<string>https://bitbucket.org/clearbrian/nsinvocation_runtime.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>NSInvoc/NSInvoc.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0C524C9C-8910-4131-B303-D65314953ED3</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/clearbrian/nsinvocation_runtime.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0C524C9C-8910-4131-B303-D65314953ED3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0C524C9C-8910-4131-B303-D65314953ED3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>nsinvocation_runtime</string>
+		</dict>
+	</array>
+</dict>
+</plist>
